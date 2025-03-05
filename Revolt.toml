@@ -1,0 +1,18 @@
+[hosts]
+app = "https://elvolt.space"
+api = "https://elvolt.space/api"
+events = "wss://elvolt.space/ws"
+autumn = "https://elvolt.space/autumn"
+january = "https://elvolt.space/january"
+
+[api]
+
+[api.registration]
+invite_only = true
+
+[pushd.vapid]
+private_key = "LS0tLS1CRUdJTiBFQyBQUklWQVRFIEtFWS0tLS0tCk1IY0NBUUVFSUFQTDdhUG1qWmlhWjNBTTc5Z0VjVWtIRGVsZjNXbnpZbVltRFZoWGpDTDhvQW9HQ0NxR1NNNDkKQXdFSG9VUURRZ0FFUmZWTHAyemlpaDd1MWl2dWRhRzdQV0NDV2VmMDdtRUpjaDRmWjBBUUdCc0xUZUtoNEdzZwo2MnF6Y09QOEU1MW45YzhjbGhEWXAvb3o5ZVNMaVQ2YUdBPT0KLS0tLS1FTkQgRUMgUFJJVkFURSBLRVktLS0tLQo"
+public_key = "BEX1S6ds4ooe7tYr7nWhuz1gglnn9O5hCXIeH2dAEBgbC03ioeBrIOtqs3Dj_BOdZ_XPHJYQ2Kf6M_Xki4k-mhg"
+
+[files]
+encryption_key = "8P+6F8bkZ/ghrqDMpAmXKOGoYOekGZVa6gPj8FyWsmk="

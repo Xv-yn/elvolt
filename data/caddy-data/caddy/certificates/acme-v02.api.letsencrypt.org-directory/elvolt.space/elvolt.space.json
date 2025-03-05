@@ -1,0 +1,19 @@
+{
+	"sans": [
+		"elvolt.space"
+	],
+	"issuer_data": {
+		"url": "https://acme-v02.api.letsencrypt.org/acme/cert/0475ed01bee9959e4026d60b24afc1907061",
+		"ca": "https://acme-v02.api.letsencrypt.org/directory",
+		"account": "https://acme-v02.api.letsencrypt.org/acme/acct/2219552975",
+		"renewal_info": {
+			"suggestedWindow": {
+				"start": "2025-04-10T02:35:55Z",
+				"end": "2025-04-12T02:35:55Z"
+			},
+			"_uniqueIdentifier": "nytfzzwhT50Et-0rLMTGcIvS1w0.BHXtAb7plZ5AJtYLJK_BkHBh",
+			"_retryAfter": "2025-03-05T12:05:34.086370264Z",
+			"_selectedTime": "2025-04-11T19:27:28Z"
+		}
+	}
+}

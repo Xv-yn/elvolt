@@ -1,0 +1,3 @@
+VHOST: /
+QUEUE: notifications.ingest.fr_received-prd
+INDEX: v2

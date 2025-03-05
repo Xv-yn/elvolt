@@ -1,0 +1,7 @@
+exit
+db.invites.insertOne({ _id: "255b445860" })
+ls
+use revolt
+exit
+db.invites.insertOne({ _id: "255b445860" })
+use revolt

@@ -1,0 +1,3 @@
+VHOST: /
+QUEUE: notifications.origin.message-prd
+INDEX: v2
