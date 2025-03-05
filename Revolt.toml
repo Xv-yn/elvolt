@@ -4,6 +4,8 @@ api = "https://elvolt.space/api"
 events = "wss://elvolt.space/ws"
 autumn = "https://elvolt.space/autumn"
 january = "https://elvolt.space/january"
+voso_legacy = "http://vortex:8080"
+voso_legacy_ws = "wss://vortex.exapmle.com/ws"
 
 [api]
 
